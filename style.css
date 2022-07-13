@@ -1,0 +1,44 @@
+body{
+    font-family: 'Gantari', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+
+
+.help-those{
+    background-image: url(images/dnt.jpg);
+    background-repeat: no-repeat;
+    background-size:100% ;
+    padding-top: 50px;
+    height: 640px;
+   text-align: center;
+}
+.help-those h1{
+    font-size: 71px;
+    color: white;
+    margin-top: 140px;
+    padding-bottom: 5px;
+}
+.help-those h3{
+    font-size: 21px;
+    color: azure;
+    font-weight: 200;
+    margin-top: -23px; 
+    margin-bottom: 70px;
+}
+.help-those a{
+    text-decoration: none;
+color: white;
+font-size: 25px;
+font-weight: 500;
+background-image: linear-gradient(tomato,rgba(255, 0, 0, 0.84));
+padding: 20px 25px ;
+border-radius: 10px;
+
+}
