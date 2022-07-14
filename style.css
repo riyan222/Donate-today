@@ -99,3 +99,42 @@ font-size: 21px;
 font-weight: 600;
 
 }
+.plan h1{
+    margin-top: 145px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+.plan h3{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.523);
+    margin-bottom: 60px;
+}
+.list{
+    width: 90%;
+    display: flex;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+.food{
+    width: 24%;
+    background-color:  rgba(127, 255, 212, 0.295);
+  padding:70px 40px;
+  border-radius: 9px; 
+  margin-right: 28px;
+
+}
+.shelter{
+    width:24% ;
+    background-color: rgba(255, 99, 71, 0.104);
+    padding: 70px 25px;
+    border-radius: 9px;
+    margin-right: 28px;
+}
+.education{
+    width: 24%;
+    background-color: rgba(255, 255, 0, 0.159);
+    padding: 70px 25px;
+    border-radius: 9px;
+
+}
